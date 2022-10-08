@@ -21,5 +21,5 @@ scikit-learn==1.0
 scipy==1.7.1
 six==1.16.0
 torch==1.12.0+cu113 -f https://download.pytorch.org/whl/torch_stable.html
-torchvision==0.13.0+cu113
+torchvision==0.13.0+cu113 -f https://download.pytorch.org/whl/torch_stable.html
 tqdm==4.62.3
