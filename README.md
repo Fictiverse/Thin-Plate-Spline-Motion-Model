@@ -43,6 +43,7 @@ cd S:\Python\Projects\thin-plate-spline
 pip install -r requirements.txt
 ```
 
+**Note:** Those without an NVIDIA GPU can add `--cpu` to the command below to use the CPU rather than the GPU
 
 ### Image animation demo
 
